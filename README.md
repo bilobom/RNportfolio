@@ -21,4 +21,7 @@ Expo Realization: https://snack.expo.io/@bilobom/pension-app:-initial-prototype
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s7.png" width="200">
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s8.png" width="200">
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s12.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s9.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s6.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s10.png" width="200">
 </p>
