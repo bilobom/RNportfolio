@@ -31,3 +31,13 @@ Expo Realization: https://snack.expo.io/@bilobom/pension-app:-initial-prototype
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s12.png" width="200">
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s10.png" width="200">
 </p>
+
+# 3. 3D-Touch-Action-Change
+Dribble inpiration : https://dribbble.com/shots/3118647-3D-Touch-Action-Change
+
+Expo Realization: Sewing
+<p float="left">
+  <img src="https://cdn.dribbble.com/users/148670/screenshots/3118647/3dtouchbutton.gif" width="200">
+ 
+  <img src="https://thesewingcritic.com/wp-content/uploads/2018/10/portable-Machines.jpg" width="200">
+</p>
