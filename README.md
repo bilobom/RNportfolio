@@ -8,6 +8,12 @@ Expo Realization: https://snack.expo.io/@bilobom/restaurant-preview
 <p float="left">
   <img src="https://raw.githubusercontent.com/bilobom/RNportfolio/master/Restaurant-Preview-Concept/inspiration.png" width="500">
   <img src="https://raw.githubusercontent.com/bilobom/RNportfolio/master/Restaurant-Preview-Concept/realization.gif" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/Restaurant-Preview-Concept/s1.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/Restaurant-Preview-Concept/s2.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/Restaurant-Preview-Concept/s3.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/Restaurant-Preview-Concept/s4.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/Restaurant-Preview-Concept/s5.png" width="200">
+  <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/Restaurant-Preview-Concept/s6.png" width="200">
   
 </p>
 
