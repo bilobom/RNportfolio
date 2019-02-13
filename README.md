@@ -16,7 +16,7 @@ Dribble inpiration : https://dribbble.com/shots/5927130-Pension-App-Initial-prot
 
 Expo Realization: https://snack.expo.io/@bilobom/pension-app:-initial-prototype
 <p float="left">
-  <img src="https://github.com/bilobom/bilobom.github.io/raw/master/pension-app-initial-prototype/inspiration.png" width="220">
+  <img src="https://github.com/bilobom/bilobom.github.io/raw/master/pension-app-initial-prototype/inspiration.png" width="210">
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s4.png" width="200">
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s7.png" width="200">
   <img src="https://raw.githubusercontent.com/bilobom/bilobom.github.io/master/pension-app-initial-prototype/s8.png" width="200">
